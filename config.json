@@ -1,0 +1,16 @@
+{
+    "aimbot": {
+        "enabled": true,
+        "fov": 90,
+        "smoothness": 0.5
+    },
+    "esp": {
+        "color": [
+            255,
+            0,
+            0
+        ],
+        "distance": 500,
+        "enabled": true
+    }
+}
